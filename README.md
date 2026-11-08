@@ -37,7 +37,6 @@ Want these graphics on a standard 3.3.5a or 1.12 client instead?
 The following patches are included in the overhaul:
 
 ```text
-patch-AAC.MPQ – HD Creatures & Models
 patch-AAP.MPQ – Enhanced Spell Particle Effects
 patch-AAS.MPQ – Upgraded Sounds & Music
 
