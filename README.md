@@ -88,6 +88,9 @@ In addition to the HD patches, the download includes several additional enhancem
 
 - Bloody Screen – Adds blood splatter effects on-screen when landing critical strikes.
 - Music While You Dancing – Adds music when using dance emotes.
+- Leatrix Plus – Major quality-of-life improvements, including auto-repair, faster looting.
+- Enhanced Battleground Scoreboard – Displays CoA classes on the battleground scoreboard.
+- CoaTooltip – Displays player specialization, item level, and PvE power in tooltips.
 
 ---
 
